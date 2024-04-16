@@ -1,2 +1,2 @@
-# C-SFML
+# C++ SFML
 Biblioteca grafica C++
